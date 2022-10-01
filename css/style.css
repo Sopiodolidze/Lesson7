@@ -1,0 +1,160 @@
+
+
+
+
+/* Flex */
+
+.conainter 2 {
+    width: 1920px;
+    height: 1444px;
+}
+.headline {
+    justify-content: center;
+}
+.Service {
+    width: 170px;
+    height: 24px;
+    font-size: 20px;
+    margin: 0 auto;
+    margin-top: 87px;
+    margin-bottom: 17px;
+}
+.Porvide {
+    width: 578px;
+    height: 48px;
+    font-size: 40px;
+    margin: 0 auto;
+    margin-bottom: 21px;
+}
+.Text1 {
+    width: 712px;
+    height: 85px;
+    font-size: 18px;
+    margin: 0 auto;
+    text-align: center;
+}
+.Flex1 {
+    display: flex;
+    margin-top: 67px;
+    margin-bottom: 60px;
+    justify-content: center;
+}
+.Top-left {
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+}
+.Website {
+    width: 106px;
+    height: 27;
+    font-size: 22px;
+    margin: 0 auto;
+}
+.Fast {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    margin: 0 auto;
+    margin-top: 13.1px;
+    margin-bottom: 11px;
+    text-align: center;
+}
+.Top-middle {
+    width: 370px;
+    height: 451px;
+    background-color: #41EAE3;
+    margin-right: 30px;
+    margin-left: 29px;
+}
+.Top-right {
+    width: 370px;
+    height: 451px;
+    background-color: #69529F;
+}
+.Flex2 {
+    display: flex;
+    justify-content: center;
+}
+.Bottom-left {
+    width: 370px;
+    height: 451px;
+    background-color: #4386D2;
+}
+.Bottom-middle {
+    width: 370px;
+    height: 451px;
+    background-color: #A5A2F6;
+    margin-right: 30px;
+    margin-left: 29px;
+}
+.Bottom-right {
+    width: 370px;
+    height: 451px;
+    background-color: #FF8088;
+}
+.Read-more {
+    width: 131px;
+    height: 45px;
+    background-color: #FFFFFF;
+    border-radius: 23px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Image1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 88px;
+    margin-bottom: 57px;
+}
+.Image2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 88px;
+    margin-bottom: 48.8px;
+
+}
+.Image3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 88px;
+    margin-bottom: 41.6px;
+}
+.Image4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 88px;
+    margin-bottom: 66px;
+}
+.Image5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 88px;
+    margin-bottom: 82.5px;
+}
+.Image6 {
+    display: flex;
+    justify-content: center;
+    margin-top: 88px;
+    margin-bottom: 73.9px;
+}
+
+.Redesign {
+    width: 92px;
+    height: 27px;
+    font-size: 22px;
+    margin: 0 auto;
+}
+.Application {
+    width: 136px;
+    height: 27px;
+    font-size: 22px;
+    margin: 0 auto;
+}
+.Webapp {
+    width: 138px;
+    height: 27px;
+    font-size: 22px;
+    margin: 0 auto;
+}
